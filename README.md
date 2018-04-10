@@ -1,2 +1,2 @@
 # Memcoin
-made in Nodejs
+Memi's blockchian coin made in Nodejs

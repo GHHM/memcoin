@@ -1,0 +1,10 @@
+{
+  "name": "memcoin",
+  "version": "1.0.0",
+  "description": "Memi's blockchian coin made in Nodejs",
+  "main": "src/server.js",
+  "repository": "https://github.com/GHHM/memcoin.git",
+  "author": "zozon1330@gmail.com",
+  "license": "MIT",
+  "private": false
+}
