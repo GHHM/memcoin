@@ -1,2 +1,2 @@
-# memcoin
+# Memcoin
 made in Nodejs
