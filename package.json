@@ -6,5 +6,8 @@
   "repository": "https://github.com/GHHM/memcoin.git",
   "author": "zozon1330@gmail.com",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
 }
